@@ -23,6 +23,7 @@ export default function CandidateList() {
             <Table.HeaderCell>TCKN</Table.HeaderCell>
           </Table.Row>
         </Table.Header>
+        
 
         <Table.Body>
           {
